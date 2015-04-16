@@ -6,12 +6,22 @@
 
 [云校](http://www.yunxiao.com/)
 
+[能力天空](http://www.ablesky.com)
+
+[好学教育](http://www.5haoxue.net)
+
+[TrainGo](http://www.traingo.cn)
+
+[习网](http://www.ciwong.com)
+
 ### 公开课/在线课程/MOOC
 [Coursera](https://www.coursera.org/)
 
 [网易云课堂](http://study.163.com/)
 
 [中国大学MOOC](http://www.icourse163.org/)
+
+[好课网](www.class.cn)
 
 [爱课程](http://www.icourses.cn/home/)
 
@@ -29,6 +39,9 @@
 [考试中心](http://www.jybkszx.com)
 
 [中华考试网](http://www.examw.com/)
+
+### 资源
+[备课网](http://bk.cooco.net.cn)
 
 ### 组织/社区/新闻/讨论
 [芥末堆](http://www.jmdedu.com/)
