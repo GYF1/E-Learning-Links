@@ -18,6 +18,8 @@
 
 [嗨学网](www.highso.cn)
 
+[梯子网](http://www.tizi.com)
+
 ### 公开课/在线课程/MOOC
 [Coursera](https://www.coursera.org/)
 
