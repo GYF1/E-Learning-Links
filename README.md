@@ -12,7 +12,11 @@
 
 [TrainGo](http://www.traingo.cn)
 
+[好未来](http://www.100tal.com)
+
 [习网](http://www.ciwong.com)
+
+[嗨学网](www.highso.cn)
 
 ### 公开课/在线课程/MOOC
 [Coursera](https://www.coursera.org/)
