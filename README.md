@@ -1,5 +1,7 @@
 # e-learning
 ### 平台
+[Clever](https://clever.com)
+
 [教学邦](http://jiaoxuebang.com/)
 
 [大家汇](http://www.dajiahui.cn/)
@@ -30,6 +32,8 @@
 
 [CC网](http://www.c2cedu.com)
 
+[高思教育](http://www.gaosiedu.com)
+
 ### 公开课/在线课程/MOOC
 [Coursera](https://www.coursera.org/)
 
@@ -38,6 +42,10 @@
 [中国大学MOOC](http://www.icourse163.org/)
 
 [学堂在线](http://www.xuetangx.com)
+
+[天下网校](http://www.tianxiawangxiao.com)
+
+[学大教育](http://www.tianxiawangxiao.com)
 
 [微课](http://www.vko.cn)
 
@@ -52,9 +60,13 @@
 ### 考试
 [猿题库](http://www.yuantiku.com/)
 
+[易题库](http://www.yitiku.cn)
+
 [考证宝](http://www.kaozhengbao.com/)
 
 [爱考拉](http://www.ikaola.mobi)
+
+[一起作业网](http://www.17zuoye.com)
 
 [超级课程表](http://www.super.cn)
 
