@@ -18,7 +18,11 @@
 
 [嗨学网](www.highso.cn)
 
+[沪江](http://www.hujiang.com)
+
 [梯子网](http://www.tizi.com)
+
+[爱班网](http://www.iclass.cn)
 
 ### 公开课/在线课程/MOOC
 [Coursera](https://www.coursera.org/)
@@ -26,6 +30,10 @@
 [网易云课堂](http://study.163.com/)
 
 [中国大学MOOC](http://www.icourse163.org/)
+
+[学堂在线](http://www.xuetangx.com)
+
+[传课](http://www.chuanke.com)
 
 [好课网](www.class.cn)
 
@@ -47,6 +55,8 @@
 [中华考试网](http://www.examw.com/)
 
 ### 资源
+[菁优网](http://www.jyeoo.com)
+
 [备课网](http://bk.cooco.net.cn)
 
 ### 组织/社区/新闻/讨论
