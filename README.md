@@ -24,6 +24,8 @@
 
 [爱班网](http://www.iclass.cn)
 
+[CC网](http://www.c2cedu.com)
+
 ### 公开课/在线课程/MOOC
 [Coursera](https://www.coursera.org/)
 
@@ -39,10 +41,14 @@
 
 [爱课程](http://www.icourses.cn/home/)
 
+[决胜网](http://www.juesheng.com)
+
 ### 考试
 [猿题库](http://www.yuantiku.com/)
 
 [考证宝](http://www.kaozhengbao.com/)
+
+[爱考拉](http://www.ikaola.mobi)
 
 [考试在线](http://kaoshi110.com/)
 
