@@ -20,7 +20,11 @@
 
 [沪江](http://www.hujiang.com)
 
+[乐教云](http://www.lejiaoyun.com)
+
 [梯子网](http://www.tizi.com)
+
+[快乐学](http://kuailexue.com)
 
 [爱班网](http://www.iclass.cn)
 
@@ -34,6 +38,8 @@
 [中国大学MOOC](http://www.icourse163.org/)
 
 [学堂在线](http://www.xuetangx.com)
+
+[微课](http://www.vko.cn)
 
 [传课](http://www.chuanke.com)
 
@@ -49,6 +55,8 @@
 [考证宝](http://www.kaozhengbao.com/)
 
 [爱考拉](http://www.ikaola.mobi)
+
+[超级课程表](http://www.super.cn)
 
 [考试在线](http://kaoshi110.com/)
 
